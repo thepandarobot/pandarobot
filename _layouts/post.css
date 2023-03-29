@@ -1,4 +1,4 @@
-.site-title::before {
+/* .site-title::before {
 content: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/favicon.ico");
 display: inline-block;
 position: relative;
@@ -6,4 +6,4 @@ width: 35px;
 top: 5px;
 padding-right: 40px;
 }
-    
+     */
