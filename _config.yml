@@ -1,0 +1,22 @@
+description: "Home of Panda Robot's webtoons, web novels, art, reviews and more"
+remote_theme: jekyll/minima
+minima:
+  skin: dark
+  social_links:
+    - { platform: webtoon-logo, user_url: "https://www.webtoons.com/en/creator/_wb36k" }
+    - { platform: tapas, user_url: "https://tapas.io/pandarobot"}
+    - { platform: tumblr-icon, user_url: "https://www.tumblr.com/pandarobotwastaken"}
+header_pages:
+  - _pages/MILLENNIUM.md
+  - _pages/ABOUT.md
+include:
+  - _pages
+  - _resources
+  - _layouts
+  - _includes
+  - _posts
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - simple-jekyll-search
