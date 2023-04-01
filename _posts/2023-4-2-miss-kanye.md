@@ -16,7 +16,7 @@ I think my view of him as an artist is perfectly incapsulated in his 2016 track 
 <p style="color:gray; font-style: italic; text-align: center;">And I get bleach on my T-shirt</p>
 <p style="color:gray; font-style: italic; text-align: center;">I'mma feel like an asshole</p>
 
-Similarly, Stronger is infamous in its production hell that Kanye’s perfectionism created, the song allegedly being mixed 75 times, even AFTER being released as a single. The same song also contains the bar “Heard they'd do anything for a Klondike”. Still, listening to the instrumental alone, you can’t help but appreciate the love and effort Kanye put into the production. I’ll even make the case that Flashing Lights is his most complete song (perfect beat, serviceable lyrics and delivery, fantastic music video by Spike Jones, and when the beat cuts before the last hook in the video, I get chills every time)
+Similarly, Stronger is infamous in its production hell that Kanye’s perfectionism created, the song allegedly being mixed 75 times, even AFTER being released as a single. The same song also contains the bar “Heard they'd do anything for a Klondike”. Still, listening to the instrumental alone, you can’t help but appreciate the love and effort Kanye put into the production. I’ll even make the case that Flashing Lights is his most complete song (perfect beat, serviceable lyrics and delivery, fantastic music video by Spike Jonze, and when the beat cuts before the last hook in the video, I get chills every time)
 
  [![Flashing Lights](https://img.youtube.com/vi/ila-hAUXR5U/0.jpg)](https://www.youtube.com/watch?v=ila-hAUXR5U)
 
