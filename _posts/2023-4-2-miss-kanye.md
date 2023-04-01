@@ -1,6 +1,6 @@
 ---
 title: "I miss the old Kanye and the curse of the limited artistic window"
-date: 2023-04-02
+date: 2023-4-2
 layout: post
 comments: true
 ---
