@@ -1,6 +1,6 @@
 ---
 title: "I miss the old Kanye"
-date: 2023-4-2
+date: 2023-04-02
 layout: post
 comments: true
 ---
