@@ -1,5 +1,5 @@
 ---
-title: "I miss the old Kanye”
+title: "I miss the old Kanye"
 date: 2023-4-2
 layout: post
 comments: true
