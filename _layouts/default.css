@@ -13,12 +13,12 @@ color: black;
   background-image: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/7256DC05-9BEB-4585-A019-9BA0C6116657.png");
 
   /* Full height */
-  height: 100%;
+  /*height: 100%;*/
 
   /* Center and scale the image nicely */
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 
 p {
