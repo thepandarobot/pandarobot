@@ -10,12 +10,13 @@ color: black;
 
 body  {
   background-image: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/7256DC05-9BEB-4585-A019-9BA0C6116657.png");
+  background-repeat: no-repeat;
 }
 
 p {
   color: black;
 }
 
-h1 {
+.page-link::before {
   color: black;
 }
