@@ -22,5 +22,4 @@ Social links:
 [Tumblr blog](pandarobotwastaken.tumblr.com)
 
 Peace and Love ✌
-
-Panda 
+Panda 🐼
