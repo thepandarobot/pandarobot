@@ -23,7 +23,7 @@ I was tempted to put Joaquin Phoenix’s Joker there too, but Todd Phillips impl
 
 I like to think that I’m better, but sadly, I too have a “literally me” moment, and it’s when I watch that creepy confession from P. T. Anderson’s *There Will Be Blood*:
 
- [![I hate people](https://img.youtube.com/vi/flz9WK3zl9A/0.jpg)](https://www.youtube.com/watch?v= flz9WK3zl9A)
+ [![I hate people](https://img.youtube.com/vi/flz9WK3zl9A/0.jpg)](https://www.youtube.com/watch?v=flz9WK3zl9A)
 
 I don’t agree with anything said there, but I know that deep down, no matter how much I talk myself into not feeling like that, I too see the worst in people. 
 
