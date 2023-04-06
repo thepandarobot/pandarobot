@@ -2,6 +2,7 @@ description: "Home of Panda Robot's webtoons, web novels, art, reviews and more"
 remote_theme: jekyll/minima
 future: true
 paginate: 10
+paginate_path: "/page:num/"
 minima:
   skin: dark
   social_links:
