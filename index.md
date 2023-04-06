@@ -5,7 +5,7 @@ layout: default
 
 <h1 class="page-heading">Posts</h1>
 
- <table border=0 cell-spacing=10 class="post-list">
+ <table>
  <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
    <h2>
