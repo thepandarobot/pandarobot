@@ -5,7 +5,7 @@ layout: default
 
 <h1 class="page-heading">Posts</h1>
 
- <table>
+ <ul>
  <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
    <h2>
@@ -14,7 +14,7 @@ layout: default
     <p>{{ post.excerpt }}</p>
 {% endfor %}
  
-   </table>
+   </ul>
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
