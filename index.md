@@ -5,10 +5,9 @@ layout: default
 
 <h1 class="page-heading">Posts</h1>
 
- <ul>
  <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
- <h2>
+   <h2>
     <a href="{{ post.url }}">{{ post.title }}</a>
    </h2>
     <p>{{ post.excerpt }}</p>
