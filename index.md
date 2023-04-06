@@ -6,7 +6,34 @@ layout: default
 <h1 class="page-heading">Posts</h1>
 
  <ul>
-  {% for post in site.posts %}
+ <!-- This loops through the paginated posts -->
+{% for post in paginator.posts %}
+ <h2>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+   </h2>
+    <p>{{ post.excerpt }}</p>
+{% endfor %}
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path }}" class="previous">
+      Previous
+    </a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+  </span>
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+ 
+  <!---{% for post in site.posts %}
   <li>
    <h2>
     <a href="{{ post.url }}">{{ post.title }}</a>
@@ -15,4 +42,4 @@ layout: default
   </li>
   {% endfor %}
 </ul>
-
+-->
