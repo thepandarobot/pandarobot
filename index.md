@@ -7,10 +7,7 @@ layout: default
 
  <ul>
   {% for post in site.posts %}
-    <li>
-      <a style="font-size: large;" href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
-    </li>
+    {% include JB/post_content %}
   {% endfor %}
 </ul>
 
