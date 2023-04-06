@@ -1,7 +1,39 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
     
-<link rel="stylesheet" href="{{'_layouts/default.css'}}">
+<!--link rel="stylesheet" href="{{'_layouts/default.css'}}"-->
+    <head><style>
+        .site-title::before {
+            content: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/header.png");
+            display: inline-block;
+            position: relative;
+            width: 35px;
+            top: 5px;
+            padding-right: 40px;
+            color: black;
+            }
+
+         body {
+              /* The image used */
+              background-image: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/7256DC05-9BEB-4585-A019-9BA0C6116657.png");
+
+              /* Full height */
+              height: 100%;
+
+              /* Center and scale the image nicely */
+              background-position: center;
+              background-repeat: no-repeat;
+              background-size: cover;
+            }
+
+         p {
+              color: black;
+            }
+
+         page-link {
+              color: black;
+            }
+        </style><head>
 
 {%- include head.html -%}
 
@@ -25,7 +57,7 @@
         <div class="wrapper">
             <div class="grid grid-centered">
               <div class="grid-cell">
-                
+                {{ content }}
               </div>
              </div>
         </div>
