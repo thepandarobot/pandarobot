@@ -5,6 +5,7 @@ layout: default
 
 <h1 class="page-heading">Posts</h1>
 
+ <table border=0 cell-spacing=10 class="post-list">
  <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
    <h2>
@@ -12,6 +13,8 @@ layout: default
    </h2>
     <p>{{ post.excerpt }}</p>
 {% endfor %}
+ 
+   </table>
 
 <!-- Pagination links -->
 {% if paginator.total_pages > 1 %}
