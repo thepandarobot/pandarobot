@@ -33,6 +33,25 @@
             padding-right: 40px;
             color: black;
         }
+        .top {
+          --offset: 50px; 
+
+          position: sticky;
+          bottom: 20px;      
+          margin-right:10px; 
+          place-self: end;
+          margin-top: calc(100vh + var(--offset));
+
+          /* visual styling */
+          text-decoration: none;
+          padding: 10px;
+          font-family: sans-serif;
+          color: #fff;
+          background: #000;
+          border-radius: 100px;
+          white-space: nowrap;
+        }
+
     </style>
     </head>
 
@@ -66,6 +85,7 @@
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript-->
     </main>
+        <a href="#" class="top">Back to Top &#8593;</a>
 
     {%- include footer.html -%}
 
