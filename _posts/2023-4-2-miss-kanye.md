@@ -9,7 +9,9 @@ Well, that’s quite hypocritical of me, since I never was a big fan of Kanye ba
 
 Then, I kinda went into a discovery era by watching music reviews from *theneedledrop* and some of the memes about his larger than life persona, making me take contact with his discography via cultural osmosis.
 
-I think my view of him as an artist is perfectly incapsulated in his 2016 track Father Stretch My Hands Pt. 1: fantastic production that creatively utilises sampling from unexpected sources, but also mid delivery of pretty shitty lyrics (how could a song that sounds so cool have lyrics like the snippet below is beyond my comprehension)
+I think my view of him as an artist is perfectly incapsulated in his 2016 track Father Stretch My Hands Pt. 1: fantastic production that creatively utilises sampling from unexpected sources, but also mid delivery of pretty shitty lyrics (how could a song that sounds so cool have lyrics like the snippet below is beyond my comprehension). The lyrics were the strongest on MBDTF, which even in his discography and in the music industry as a whole, is in a league of its own.
+
+[![MBDTF](https://img.youtube.com/vi/6t0nipO6Rcw/0.jpg)](https://www.youtube.com/watch?v=6t0nipO6Rcw)
 
 <p style="color:black; font-style: italic; text-align: center;">Now if I fuck this model</p>
 <p style="color:black; font-style: italic; text-align: center;">And she just bleached her asshole</p>
