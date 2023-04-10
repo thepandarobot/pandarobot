@@ -17,6 +17,6 @@ Like the opening, it is the only fully saturated scene in the film (I haven’t 
 
 I love Parasite, The Host, Mother, Barking dogs never bite and pretty much all of Bong’s filmography (I’m so-so on his English features, but they still contain ingots of brilliance, and I suspect the language barrier to get in the way between him and all actors not named Tilda Swinton).
 
-I loved that ending so much, I tried to morph it with that *You talkin to me?* scene from Taxi Driver in this panel from Millennium. (I don’t know how well I even communicated that Han was talking in the mirror, but hey… and attempt was made).
+I loved that ending so much, I tried to morph it with that *You talkin to me?* scene from Taxi Driver in this panel from Millennium. (I don’t know how well I even communicated that Han was talking to the mirror, but hey… and attempt was made).
 
 ![4th wall](https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/posts/4th-wall.PNG)
