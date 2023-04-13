@@ -1,5 +1,5 @@
 ---
-title: "neocities.org, the real life Serial Experiments Lain site"
+title: "Serial Experiments Lain"
 date: 2023-04-11
 layout: post
 comments: true
@@ -18,10 +18,4 @@ In a Ven Diagram, what would be at the intersection? Well, Serial Experiments La
 *also check out Archipel’s video on Yoshitoshi ABe, the visual artist that worked on the anime and the videogame*
 
 
-Thing is, there’s a website in the show called the Wired. Not the American one with reviews and crap, a proto-MySpace-slash-digital-world where most people log in to communicate and daze in front of a blue-radiating monitor.
 
-Well, turns out that some fan(s) created a real world version of that site, accessible from the retro, cyberpunk, synth wave-themes website Neocities. And you apparently need an invite to get there.
-
-I joined the Discord server and I’m gonna try to get an invite, but even if it fails, the community present there seems to be pretty chill and willing to share interesting and eerie shit that I like, so nothing was lost. Fingers crossed I’ll get an invite, though.
-
-Oh, and also, watch (or rewatch) Serial Experiments Lain. For a ’98 anime about the parasocial future of mankind in the social networking age, it got so much right it makes me wonder if John Titor was a writer on this. 
