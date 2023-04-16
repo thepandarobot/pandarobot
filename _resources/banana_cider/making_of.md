@@ -1,5 +1,5 @@
 ---
-title: BANANA CIDER:  Making of & behind the scenes 
+title: BANANA CIDER - Making of & behind the scenes 
 layout: millennium
 ---
 
