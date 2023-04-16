@@ -7,7 +7,7 @@ layout: millennium
 <h2></h2>
 
 ## Making of & behind the scenes:
-[Behind the scenes] (http://pandarobot.net/_resources/banana_cider/making_of.html)
+[Behind the scenes](http://pandarobot.net/_resources/banana_cider/making_of.html)
 
 
 # Chapters:
