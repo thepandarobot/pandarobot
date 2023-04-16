@@ -11,7 +11,7 @@ Writer of BANANA CIDER. Social media scares me, wonâ€™t find me anywhere else ðŸ
 You can read all my stuff here as well, in addition to blog posts. I also have a Tumblr blog where 
 I blog and reblog stuff, a little less focused than here (more of a mood board).
 
-Social links:
+Links:
 
 [Webtoons](https://www.webtoons.com/en/creator/_wb36k)
 
