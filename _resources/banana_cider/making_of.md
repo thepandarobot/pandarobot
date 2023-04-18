@@ -27,3 +27,10 @@ I started with Astrid's character design based from my notes I wrote trying to f
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0827.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SYNDELL.PNG"/>
 
 -placeholder-
+
+## Creating Vincent's character design in Procreate
+
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0830.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0831.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0832.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/VINCENT.PNG"/>
+
+-placeholder-
