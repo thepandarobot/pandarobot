@@ -35,3 +35,10 @@ Syndell is actually based on a character with the same name from an older Webtoo
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0832.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/VINCENT.PNG"/>
 
 Being one of the two male leads and the youngest character, I somehow made Vincent deliberately less bold in his design (I consider him half-a-character in the duo of him and his dog Volf). Vincent doesn't care about people much, so I think this reflects in his look and attitude as well, not trying to put an inviting face. The big eyes are there to emphasize his youthful look, but the eyebags underneath (again, a recycled idea from an older design) give him a world-weary element. I think his eye color is the prettiest of the characters that you can find easily in real life, the blue-grey (here literally blue with grey accents). Since blood glyphs play a big part in his character, I went with a red outline and a striking red color for his hoodie, the biggest splash of color.
+
+## Creating Volf's character design in Procreate
+
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0834.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0835.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0836.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/VOLF.PNG"/>
+
+Just look at this good boy! ❤️
