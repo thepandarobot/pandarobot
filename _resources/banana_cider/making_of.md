@@ -6,7 +6,7 @@ layout: millennium
 # BANANA CIDER: Making of & behind the scenes 
 
 
-## Creating Astrid's character design in Procreate
+## Creating Astrid's character design
 
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/9A5777CA-1BCC-4D90-995D-D81F71F48DE8.png"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/7E8F32A3-ECF6-4511-A06F-B1D9F6E2DD5F.png"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/3E030454-DA78-44E1-BBBF-1DAF44B93C8F.png"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/ASTRID.PNG"/>
@@ -33,7 +33,7 @@ I feel like the characters reveal themselves the most through the eyes, the wind
 I liked the smile too, so I think I'll keep portraying her with either a smile or a sly smirk most of the time to show how she's not taking herself seriously or putting up a playful facade.
 
 
-## Creating Syndell's character design in Procreate
+## Creating Syndell's character design
 
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0825.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0826.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0827.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SYNDELL.PNG"/>
@@ -44,7 +44,7 @@ For the eyes, I picked the look that most resembles a tear, soft of a playful ec
 
 For the outline, I picked a dirty yellow, almost the color of clay. I find yellow to be such an unsettling color, because it gives off ambiguous emotions, unlike green, blue, or red. The albino hair and striking makeup are also a nod to another similar character I love, Kirari Momobami from the manga Kakegurui (also halo braids must be the cutest haircut on a light haired woman). They give her a villainous, almost snake-like appearance, which gave me the opportunity to contrast with a charismatic demeanor and play with the dissonance it creates in other characters (and hopefully in the reader's minds as well)  
 
-## Creating Vincent's character design in Procreate
+## Creating Vincent's character design
 
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0830.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0831.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0832.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/VINCENT.PNG"/>
@@ -55,14 +55,14 @@ Vincent doesn't care about people much, so I think this reflects in his look and
 
 I think his eye color is the prettiest of the characters that you can find easily in real life, the blue-grey (here literally blue with grey accents). Since blood glyphs play a big part in his character, I went with a red outline and a striking red color for his hoodie, the biggest splash of color in his design.
 
-## Creating Volf's character design in Procreate
+## Creating Volf's character design
 
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0834.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0835.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0836.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/VOLF.PNG"/>
 
 Just look at this good boy! ❤️
 
-## Creating Dastan's character design in Procreate
+## Creating Dastan's character design
 
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0838.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0839.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0840.PNG"/><img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/DASTAN.PNG"/>
@@ -72,3 +72,10 @@ While for Vincent I opted to skip doing eyelashes, for Dastan I added them becau
 I wanted him to be the darkest character without being outright villainous in his appearance or character (I took that approach with every character), and when I assigned a color to each character, I felt like I might have telegraphed some things too hard by having Dastan be the only one with a black outline. Also, an interesting note: I debated having Dastan and Vincent swap powers, as I felt that Vincent's power was too dark for the young character, but I liked that this mixture muddies the waters and keeps things ambiguous and interesting, as opposed to predictable and safe.
 
 Also, I love that stylish kimono and I think nothing else would've fit this character haha!
+
+## Creating the Lightning Rollerblades
+
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0842.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/ROLLER_BLADES.PNG"/>
+
+My sort-of tribute to Wizard of Oz's Ruby Slippers and a cool solution to the transportation problem within Arcadia. I wanted the world to be completely devoid of cars, motorcycles, or any form of transportation that seems uncool or easily dated (for the same reason, the supermarket's design proved to be a bigger problem). Taking a stroll one evening, a bunch of kids on rollerblades passed by me (I myself am a rollerblading enthusiast haha), and the idea instantly clicked in my head. The feeling of weightlessness and inertia that you get from even watching someone effortlessly move like that is one that could rival any flight, teleportation, or webslinging superpower, yet it's something so ordinary that it feels way more relatable. Zig-Zagging on rollerblades at high speed is one of those ideas that fate threw my way because I couldn't come up with something so cool on my own haha :))
