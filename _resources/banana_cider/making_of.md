@@ -83,3 +83,18 @@ My sort-of tribute to Wizard of Oz's Ruby Slippers and a cool solution to the tr
 Taking a stroll one evening, a bunch of kids on rollerblades passed by me (I myself am a rollerblading enthusiast haha), and the idea instantly clicked in my head. The feeling of weightlessness and inertia that you get from even watching someone effortlessly move like that is one that could rival any flight, teleportation, or webslinging superpower, yet it's something so ordinary that it feels way more relatable. Zig-Zagging on rollerblades at high speed is one of those ideas that fate threw my way because I couldn't come up with something so cool on my own haha :))
 
 The only main character who doesn't use them is Dastan (he simply showes up wherever he needs to, via a different, equally cool method which I won't spoil here); be honest, rollerblades and a kimono would just look silly!
+
+## Creating The Sentinels' character design
+
+
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_08.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SENTINEL_LIGHT.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SENTINEL_DARK.PNG"/>
+
+My foray into Steampunk, the de-facto, if passive villains of Banana Cider, the Sentinels are a mix between medieval armor and the uniforms of the Plague Doctors. I envisioned them as having two variations, one that always tells the truth and one that always lies, therefore two designs, one light and one dark (no relation to the order I presented them and their respective function).
+
+They have a slightly more intricate design than the other characters, but since they also have the least amont of "screentime", I found that tradeoff acceptable.
+
+## Creating the backgrounds
+
+Since I wanted good separation between characters and background, and also I leaned heavily on the pastel aesthetic of a 90s OVA anime, I went for a watercolor-based approach for the backgrounds, keeping outlines to a minimum and treating each scene as animation cells over painted scenery.
