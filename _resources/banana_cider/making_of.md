@@ -123,6 +123,8 @@ From there, I simply use the selection tool with the pure white color selected a
 
 From there, it's just a matter of selecting each panel, hitting “alpha lock” to keep everything within the panel boundaries, then drawing to my heart’s content!
 
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0849.PNG"/>
+
 
 Usually, I settle for drawing the background with watercolor brushes directly on the white panel, with the sketch layer above ready to be transformed into the character outlines, and a few layers in between for coloring. The topmost layers are reserved for text and speech bubbles, or the occasional SFX.
 
