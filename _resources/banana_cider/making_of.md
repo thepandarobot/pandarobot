@@ -87,7 +87,7 @@ The only main character who doesn't use them is Dastan (he simply showes up wher
 ## Creating The Sentinels' character design
 
 
-<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_08.PNG"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0846.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SENTINEL_LIGHT.PNG"/>
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/SENTINEL_DARK.PNG"/>
 
