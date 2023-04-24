@@ -13,7 +13,7 @@ I blog and reblog stuff, a little less focused than here (more of a mood board).
 
 Links:
 
-[Webtoons](https://www.webtoons.com/en/creator/_wb36k)
+[RoyalRoad](https://www.royalroad.com/profile/358926)
 
 [Tapas.io](https://tapas.io/pandarobot)
 
