@@ -93,44 +93,4 @@ The only main character who doesn't use them is Dastan (he simply showes up wher
 
 My foray into Steampunk, the de-facto, if passive villains of Banana Cider, the Sentinels are a mix between medieval armor and the uniforms of the Plague Doctors. I envisioned them as having two variations, one that always tells the truth and one that always lies, therefore two designs, one light and one dark (no relation to the order I presented them and their respective function).
 
-They have a slightly more intricate design than the other characters, but since they also have the least amont of "screentime", I found that tradeoff acceptable.
-
-## Creating the backgrounds
-
-Since I wanted good separation between characters and background, and also I leaned heavily on the pastel aesthetic of a 90s OVA anime, I went for a watercolor-based approach for the backgrounds, keeping outlines to a minimum and treating each scene as animation cells over painted scenery.
-
-## How I create a layout for both horizontal and vertical viewing 
-
-
-I use Procreate on IPadOS to create the art for BANANA CIDER, and I design the pages to be readable both in a two-page format and in the seamless, endless vertical scroll on platforms like Webtoons and Tapas, which are predominantly targeting phone screens.
-
-
-This means that certain elements need to be implemented for that kind of versatility, without sacrificing artistic integrity: 
-
-
-- panels must be large and uncrowded, easily understandable even when scaled (not a bad tip for good composition even when you don't target mobile screens)
-
-- text must be large, ideally broken up into smaller chunks so it doesn't become an eyesore to read
-
-- visual elements can escape the bounds of the panels or even the page, but only on a horizontal axis; any jarring element on the vertical will lead to a jigsaw puzzle-like assembly when scrolling vertically 
-
-
-I tend to start with the base color of the page, a nice pastel pink that sets the mood and makes for easy “assembly” of the finished composition, providing continuity from page to page. I set my page size to A3, which is 297 x 420 mm or 11.7 x 16.5 inches.
-
-
-From there, I simply use the selection tool with the pure white color selected and draw my panels as I see fit, each one on a separate layer. If I want to keep them all within the same bounds, I simply make one giant white panel and “carve” away at it with the selection and erase options. That's it, no rulers involved!
-
-
-From there, it's just a matter of selecting each panel, hitting “alpha lock” to keep everything within the panel boundaries, then drawing to my heart’s content!
-
-<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0849.PNG"/>
-<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/IMG_0850.PNG"/>
-<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/banana_cider/DARKEN.jpeg"/>
-
-Usually, I settle for drawing the background with watercolor brushes directly on the white panel, with the sketch layer above ready to be transformed into the character outlines, and a few layers in between for coloring. The topmost layers are reserved for text and speech bubbles, or the occasional SFX.
-
-
-In the end, everything is squashed together into a single layer, except for the base color, and exported as a PNG.
-
-
-Voila! Making comics by myself, done fast and easy, a process I perfected over time to suit my needs, and definitely not a one-size-fits-all (not even for my future projects, as I don't want to pigeonhole myself and limit experimentation)
+d limit experimentation)
