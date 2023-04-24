@@ -8,7 +8,7 @@ gem 'github-pages', '170', group: :jekyll_plugins
 minima:
   skin: dark
   social_links:
-    - { platform: webtoon-logo, user_url: "https://www.webtoons.com/en/creator/_wb36k" }
+    - { platform: royalroad, user_url: "https://www.royalroad.com/profile/358926" }
     - { platform: tapas, user_url: "https://tapas.io/pandarobot"}
     - { platform: tumblr-icon, user_url: "https://www.tumblr.com/pandarobotwastaken"}
 header_pages:
