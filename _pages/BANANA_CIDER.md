@@ -12,8 +12,8 @@ layout: millennium
 <h2>  The Banana Cider falls in the second category (read the ingredients on the label for side effects including amnesia and life-threatening situations). This is the story of Astrid, a girl whose tears never stop flowing, wandering a strange world, meeting quirky and mysterious strangers, and fighting sentient hollow armor suits called Sentinels, all while trying to remember her past.
 </h2>
 
-## Making of & behind the scenes:
-[Behind the scenes](http://pandarobot.net/_resources/banana_cider/making_of.html)
+## Characters:
+[Characters](http://pandarobot.net/_resources/banana_cider/characters.html)
 
 
 # Chapters:
