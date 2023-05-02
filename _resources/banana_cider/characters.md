@@ -3,7 +3,7 @@ title: BANANA CIDER - Characters
 layout: millennium
 ---
 
-# BANANA CIDER: Characgters
+# BANANA CIDER: Characters
 
 
 ## Astrid
