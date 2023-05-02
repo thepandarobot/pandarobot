@@ -13,6 +13,7 @@ minima:
     - { platform: tumblr-icon, user_url: "https://www.tumblr.com/pandarobotwastaken"}
 header_pages:
   - _pages/BANANA_CIDER.md
+  - _pages/SENTINEL.md
   - _pages/ABOUT.md
 include:
   - _pages
