@@ -12,8 +12,7 @@ minima:
     - { platform: tapas, user_url: "https://tapas.io/pandarobot"}
     - { platform: tumblr-icon, user_url: "https://www.tumblr.com/pandarobotwastaken"}
 header_pages:
-  - _pages/BANANA_CIDER.md
-  - _pages/SIGNAL.md
+  - _pages/SATANIQ.md
   - _pages/ABOUT.md
 include:
   - _pages
