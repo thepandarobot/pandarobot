@@ -17,3 +17,8 @@ layout: millennium
 ## H.E.L.L. Gunshot
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HELL_GUNSHOT.PNG"/>
+
+
+## Plasma Dagger
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/PLASMA_DAGGER.PNG"/>
