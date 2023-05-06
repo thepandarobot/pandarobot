@@ -8,7 +8,7 @@ comments: true
 # My favorite movies, in no particular order except for the first two
 
 ## (#1) The Matrix
-<img width="350vw" src="https://static.wikia.nocookie.net/matrix/images/5/56/The_Matrix_digital_release_cover.jpg/revision/latest/scale-to-width-down/1200?cb=20210908111245"/>
+<img width="350vw" src="https://www.themoviedb.org/t/p/original/dXNAPwY7VrqMAo51EKhhCJfaGb5.jpg"/>
 
 ## (#2) Memories of Murder
 <img width="350vw" src="https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"/>
