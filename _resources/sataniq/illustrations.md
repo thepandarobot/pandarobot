@@ -22,3 +22,7 @@ layout: millennium
 ## Plasma Dagger
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/PLASMA_DAGGER.PNG"/>
+
+## Sigil of Calypso
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SIGIL_OF_CALYPSO.PNG"/>
