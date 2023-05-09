@@ -26,3 +26,15 @@ layout: millennium
 ## Sigil of Calypso
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SIGIL_OF_CALYPSO.PNG"/>
+
+## Astrid Falk (pre injury)
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_PRE_INJURY.PNG"/>
+
+## Astrid Falk (post injury)
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_POST_INJURY.PNG"/>
+
+## Astrid Falk (post injury, visor on)
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR.PNG"/>
