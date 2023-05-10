@@ -36,3 +36,6 @@ comments: true
 
 # Perfect Blue
 <img width="350vw" src="https://m.media-amazon.com/images/M/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_FMjpg_UX1000_.jpg"/>
+
+# Patlabor 2
+<img width="350vw" src="https://animeanime.global/wp-content/uploads/2021/01/381327.jpg"/>
