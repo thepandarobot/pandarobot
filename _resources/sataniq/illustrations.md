@@ -46,6 +46,10 @@ layout: millennium
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SYNDELL.PNG"/>
 
+## Gilgamesh
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/GILGAMESH.PNG"/>
+
 ## Chancellor Agnes Falk
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK.PNG"/>
