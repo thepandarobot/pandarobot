@@ -13,10 +13,10 @@ layout: millennium
 </h2>
 
 ## Characters:
-[Characters](http://thepandarobot.com/_resources/banana_cider/characters.html)
+[Characters](https://thepandarobot.com/_resources/banana_cider/characters.html)
 
 
 # Chapters:
-[I: MAY YOU NEVER FORGET ME](http://thepandarobot.com/_resources/banana_cider/chapter/1/chapter.html)
+[I: MAY YOU NEVER FORGET ME](https://thepandarobot.com/_resources/banana_cider/chapter/1/chapter.html)
 
-[II: THE TREE OF LIFE](http://thepandarobot.com/_resources/banana_cider/chapter/2/chapter.html)
+[II: THE TREE OF LIFE](https://thepandarobot.com/_resources/banana_cider/chapter/2/chapter.html)

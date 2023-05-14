@@ -9,6 +9,6 @@ layout: millennium
 <h2></h2>
 
 # Illustrations:
-[Illustrations](http://thepandarobot.com/_resources/sataniq/illustrations.html)
+[Illustrations](https://thepandarobot.com/_resources/sataniq/illustrations.html)
 
 # Chapters:
