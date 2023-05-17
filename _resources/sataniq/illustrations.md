@@ -50,6 +50,10 @@ layout: millennium
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/GILGAMESH.PNG"/>
 
+## Seth Carpenter
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_CARPENTER.PNG"/>
+
 ## Chancellor Agnes Falk
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK.PNG"/>
