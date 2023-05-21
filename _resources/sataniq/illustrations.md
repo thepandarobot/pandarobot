@@ -40,7 +40,7 @@ layout: millennium
 
 ## Major Han Sauer
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HAN_SAUER.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HAN_SAUER_TRANSPARENT.PNG"/>
 
 ## SAGE Syndell
 
