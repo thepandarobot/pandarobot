@@ -6,10 +6,9 @@ layout: about
 
 # About
 
-Writer of SATANIQ. Social media scares me, won’t find me anywhere else 🥹.
+Writer of SATANIQ. I dislike social media, won’t find me anywhere else but Tumblr but I don't respond to messages.
 
-You can read all my stuff here as well, in addition to blog posts. I also have a Tumblr blog where 
-I blog and reblog stuff, a little less focused than here (more of a mood board).
+You can read all my stuff here as well, in addition to blog posts. 
 
 Links:
 
