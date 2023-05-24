@@ -44,7 +44,7 @@ layout: millennium
 
 ## SAGE Syndell
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SYNDELL.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SYNDELL_TRANSPARENT.PNG"/>
 
 ## Gilgamesh
 
