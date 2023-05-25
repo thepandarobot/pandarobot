@@ -36,7 +36,7 @@ layout: millennium
 
 ## Astrid Falk (post injury, visor on)
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR_TRANSPARENT.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR_ON_TRANSPARENT.PNG"/>
 
 ## Major Han Sauer
 
