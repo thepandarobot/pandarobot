@@ -28,15 +28,15 @@ layout: millennium
 
 ## Astrid Falk (pre injury)
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_PRE_INJURY.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_PRE_INJURY.png"/>
 
 ## Astrid Falk (post injury)
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_POST_INJURY.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_POST_INJURY.png"/>
 
 ## Astrid Falk (post injury, visor on)
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR.pgn"/>
 
 ## Major Han Sauer
 
