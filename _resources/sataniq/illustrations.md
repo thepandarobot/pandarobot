@@ -54,6 +54,10 @@ layout: millennium
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_CARPENTER.PNG"/>
 
+## Evelyn Rylander
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/EVELYN_TRANSPARENT.PNG"/>
+
 ## Chancellor Agnes Falk
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK.PNG"/>
