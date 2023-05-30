@@ -48,11 +48,11 @@ layout: millennium
 
 ## Gilgamesh
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/GILGAMESH.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/GILGAMESH_TRANSPARENT.PNG"/>
 
 ## Seth Carpenter
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_CARPENTER.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_TRANSPARENT.PNG"/>
 
 ## Evelyn Rylander
 
@@ -60,7 +60,7 @@ layout: millennium
 
 ## Chancellor Agnes Falk
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK_TRANSPARENT.PNG"/>
 
 ## Koma alphabet
 
