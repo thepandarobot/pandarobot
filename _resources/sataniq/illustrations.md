@@ -52,7 +52,7 @@ layout: millennium
 
 ## Seth Carpenter
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_TRANSPARENT.PNG"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SETH_CARPENTER_TRANSPARENT.PNG"/>
 
 ## Evelyn Rylander
 
