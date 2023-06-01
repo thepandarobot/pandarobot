@@ -65,5 +65,4 @@ layout: millennium
 ## Koma alphabet
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/Koma.png"/>
-I’ve done this on my cracked screen IPhone, in Freeform, using my twig fingers, so don't judge too hard :) 
 
