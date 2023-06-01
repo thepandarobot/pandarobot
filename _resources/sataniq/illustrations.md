@@ -64,5 +64,6 @@ layout: millennium
 
 ## Koma alphabet
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/Koma.png"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/Koma1.jpg"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/Koma2.jpg"/>
 
