@@ -9,11 +9,20 @@ title: Panda Robot
     <head><style>
         .site-title::before {
             content: url("https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/header.png");
-            display: inline-block;
-            width: 35px;
+
+            height: 35px;
             top: 5px;
-            padding-right: 100px;
+            padding-right: 50px;
             color: black;
+
+            /* Hide the text. */
+            text-indent: 100%;
+            white-space: nowrap;
+            overflow: hidden;
+            }
+
+            .site-nav{
+              top: 15px;
             }
 
          body {
