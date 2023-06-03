@@ -13,8 +13,11 @@ minima:
     - { platform: tumblr-icon, user_url: "https://www.tumblr.com/pandarobotwastaken"}
 header_pages:
   - _pages/SATANIQ.md
+  - _pages/MILLENNIUM.md
+  - _pages/BANANA_CIDER.md
+  - _pages/FLIGHT_OF_THE_ALBATROSS.md
+  - _pages/AGUA_DE_LUNA.md
   - _pages/ABOUT.md
-  - _pages/CONTACT.md
 include:
   - _pages
   - _resources
