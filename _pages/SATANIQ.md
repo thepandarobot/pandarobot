@@ -6,6 +6,8 @@ layout: millennium
 
 # Synopsis:
 
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/logo.png"/>
+
 <h2></h2>
 
 # Illustrations:
