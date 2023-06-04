@@ -14,9 +14,6 @@ Links:
 
 [RoyalRoad](https://www.royalroad.com/profile/358926)
 
-[Tapas.io](https://tapas.io/pandarobot)
-
 [Tumblr blog](pandarobotwastaken.tumblr.com)
 
-Peace and Love ✌
 Panda 🐼
