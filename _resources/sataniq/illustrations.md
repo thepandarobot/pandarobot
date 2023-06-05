@@ -62,6 +62,10 @@ layout: millennium
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK_TRANSPARENT.PNG"/>
 
+## The Condor (Stinger A-109)
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/CONDOR.png"/>
+
 ## Koma alphabet
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/Koma1.jpg"/>
