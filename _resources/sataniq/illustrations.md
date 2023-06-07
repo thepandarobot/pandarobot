@@ -12,7 +12,7 @@ layout: millennium
 
 ## Sentinel Logo: Triquetra
 
-<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniqTRIQUETRA.png"/>
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/TRIQUETRA.png"/>
 
 Motto: Nulla poena sine lege
 
