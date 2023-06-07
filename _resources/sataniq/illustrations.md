@@ -10,6 +10,13 @@ layout: millennium
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SATANIQ_COVER.PNG"/>
 
+## Sentinel Logo: Triquetra
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniqTRIQUETRA.png"/>
+
+Motto: Nulla poena sine lege
+
+
 ## H.E.L.L. Pistol
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HELL_PISTOL.PNG"/>
