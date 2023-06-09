@@ -39,3 +39,6 @@ comments: true
 
 # Patlabor 2
 <img width="350vw" src="https://animeanime.global/wp-content/uploads/2021/01/381327.jpg"/>
+
+# Persona
+<img width="350vw" src="https://s3.amazonaws.com/criterion-production/films/d5c135c95f58e74e2ee28cb92659bafd/DoD5SlisIFjKyi0zucupnwj2B3ADGy_large.jpg"/>
