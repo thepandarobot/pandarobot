@@ -69,6 +69,10 @@ Motto: Nulla poena sine lege
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/AGNES_FALK_TRANSPARENT.PNG"/>
 
+## Vernerniffre
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/VERNERNIFFRE.png"/>
+
 ## The Condor (Stinger A-109)
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/CONDOR.png"/>
