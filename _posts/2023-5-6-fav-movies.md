@@ -45,3 +45,9 @@ comments: true
 
 # JSA (Joint Security Area)
 <img width="350vw" src="https://asian-movies-online.com/wp-content/uploads/73.jpg"/>
+
+# Cure
+<img width="350vw" src="https://m.media-amazon.com/images/M/MV5BY2IzODExNDgtMzViNC00ZDk5LWJlOGYtM2VjZjQ4MzllN2RiXkEyXkFqcGdeQXVyNTY4ODAxODI@._V1_FMjpg_UX1000_.jpg"/>
+
+# Possession (1981)
+<img width="350vw" src="https://blogs.iu.edu/establishingshot/files/2022/01/possession-poster-736x1024.jpg"/>
