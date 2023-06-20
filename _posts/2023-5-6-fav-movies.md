@@ -14,7 +14,7 @@ comments: true
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/movie_posters/memories.jpg"/>
 
 ## Ong-Bak
-<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/movie_posters/"/>
+<img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/movie_posters/ongbak.jpg"/>
 
 ## The End of Evangelion
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/movie_posters/evangelion.jpg"/>
