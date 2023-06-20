@@ -45,6 +45,9 @@ Motto: Nulla poena sine lege
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/ASTRID_VISOR_ON_TRANSPARENT.png"/>
 
+## Yurié Kraiff
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/YURIÉ_KRAIFF.png"/>
+
 ## Major Han Sauer
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HAN_SAUER_TRANSPARENT.PNG"/>
