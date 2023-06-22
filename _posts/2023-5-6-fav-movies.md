@@ -51,3 +51,10 @@ comments: true
 
 # Possession (1981)
 <img width="350vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/movie_posters/possession.jpg"/>
+
+## Bonus
+
+# Fav tv show: The Wire
+# Fav guilty pleasure: Prison Break (1-5)
+# Fav album: Dark Side of the Moon (Pink Floyd)
+# Fav OST: Ghost in the Shell - Stand Alone Complex (1,2, SSS) - Yokko Kanno
