@@ -1,7 +1,11 @@
-.trigger
+
+@media only screen and (min-width: 800px) {
+  .trigger
 {
   display: flex !important;
 }
+}
+
 .site-nav {
 display: contents !important;
 }
@@ -65,4 +69,3 @@ display: contents !important;
     border-radius: 100px;
     white-space: nowrap;
   }
-  </style><head>
