@@ -57,3 +57,4 @@ comments: true
 ## Fav guilty pleasure: Prison Break (1-5)
 ## Fav album: Dark Side of the Moon (Pink Floyd)
 ## Fav OST: Ghost in the Shell - Stand Alone Complex (1,2, SSS) - Yoko Kanno
+## Fav book: Memories of a Geisha - Arthur Golden
