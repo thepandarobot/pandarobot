@@ -25,6 +25,11 @@ Motto: Nulla poena sine lege
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/HELL_GUNSHOT.PNG"/>
 
+## Sentinel Helmet
+
+<img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/SENTINEL_HELMET.png"/>
+
+
 ## Plasma Dagger
 
 <img width="1000vw" src="https://raw.githubusercontent.com/thepandarobot/pandarobot/main/_resources/sataniq/PLASMA_DAGGER.PNG"/>
