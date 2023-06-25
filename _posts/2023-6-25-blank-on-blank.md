@@ -9,7 +9,6 @@ Just wanted to share with everyone this great series of recorded interviews with
 
 I’ll leave the Carl Sagan on Extraterrestrials interview, as well as the Charles Bukowski interview below, and if you find it interesting, the rest are on the Blank on Blank YouTube channel.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u9WHs49nlHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"> </iframe>
+{% include youtube.html id="u9WHs49nlHk" %}
 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eTiW_zpMP8U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"> </iframe>
+{% include youtube.html id="eTiW_zpMP8U" %}
