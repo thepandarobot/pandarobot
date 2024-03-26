@@ -1,0 +1,8 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_resources/torch/._*.png
+._*
+.gitconfig.thepandarobot
+**/._*

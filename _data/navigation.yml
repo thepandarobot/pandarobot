@@ -1,0 +1,16 @@
+# Site navigation links
+
+- title: Home
+  url: /
+
+- title: Blog
+  url: /blog/
+
+- title: Web Novels
+  url: /projects/
+
+- title: Patrons
+  url: /patrons/
+
+- title: About
+  url: /about/

@@ -1,0 +1,47 @@
+# Site
+title:          'Panda Robot'
+bio:            'Home of Panda Robot webnovels and artwork'
+description:    "Home of Panda Robot webnovels and artwork"
+picture:        'assets/img/Logo.png'
+locale:         en_US
+url:            https://thepandarobot.com
+
+# Jekyll
+permalink:      pretty
+markdown:       kramdown
+highlighter:    rouge
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Social
+# if you don't have any of social below, comment the line.
+#email:
+wattpad: ThePandaRobot
+patreon: 84264845
+medium: pandarobot
+
+# Paginate
+# if you don't need pagination, comment the *paginate* configs below
+paginate: 5
+paginate_path: "blog/:num/"
+
+# Gems
+plugins:
+  - jekyll-mentions
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-paginate
+
+#jekyll-mentions:
+#    base_url: https://github.com
+include: ['_pages', 'patrons']
+# Exclude list
+exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
